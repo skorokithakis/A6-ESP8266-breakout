@@ -1,4 +1,4 @@
-update=Κυρ 14 Αύγ 2016 02:14:06 πμ EEST
+update=Παρ 19 Αύγ 2016 05:13:37 μμ EEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -63,3 +63,13 @@ LibName31=/home/stavros/Documents/Hardware/KiCad Libraries/Mine/A6_GSM
 LibName32=/home/stavros/Documents/Hardware/KiCad Libraries/sim/at91sam7sxxx-au
 LibName33=/home/stavros/Documents/Hardware/KiCad Libraries/sim/SIMtrace
 LibName34=/home/stavros/Documents/Hardware/KiCad Libraries/sim/smartcard
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=images/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
