@@ -7,4 +7,4 @@ library](https://github.com/skorokithakis/A6lib).
 
 It is still incomplete, and looks like this:
 
-<img src="breakout.sch.svg" />
+<img src="images/breakout.png" />
