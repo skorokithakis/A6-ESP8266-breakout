@@ -204,8 +204,6 @@ F 3 "" H 2350 5100 50  0000 C CNN
 	1    2350 5100
 	0    1    1    0   
 $EndComp
-Text Notes 8650 950  0    60   ~ 0
-TODO:\n* Add input barrel jack.\n* Check the audio connections.\n* Check the SIM card holder dimensions.\n* Check the SMA antenna dimensions.
 NoConn ~ 2900 4550
 NoConn ~ 2900 4650
 NoConn ~ 2900 4750
