@@ -1,4 +1,4 @@
-update=Παρ 19 Αύγ 2016 05:13:37 μμ EEST
+update=Σαβ 20 Αύγ 2016 03:44:17 πμ EEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,6 +25,16 @@ version=1
 NetIExt=net
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=images/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [eeschema]
 version=1
 LibDir=
@@ -63,13 +73,6 @@ LibName31=/home/stavros/Documents/Hardware/KiCad Libraries/Mine/A6_GSM
 LibName32=/home/stavros/Documents/Hardware/KiCad Libraries/sim/at91sam7sxxx-au
 LibName33=/home/stavros/Documents/Hardware/KiCad Libraries/sim/SIMtrace
 LibName34=/home/stavros/Documents/Hardware/KiCad Libraries/sim/smartcard
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=images/
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
+LibName35=/home/stavros/Documents/Hardware/KiCad Libraries/Mine/misc
+LibName36=/home/stavros/Documents/Hardware/KiCad Libraries/Mine/nodemcu
+LibName37=/home/stavros/Documents/Hardware/KiCad Libraries/Mine/sensors
