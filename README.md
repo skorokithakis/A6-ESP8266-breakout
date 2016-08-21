@@ -7,6 +7,10 @@ library](https://github.com/skorokithakis/A6lib).
 
 It is still incomplete, and looks like this:
 
+## Schematic
+
 <img src="images/schematic.png" />
+
+## Board
 
 <img src="images/board.png" />
