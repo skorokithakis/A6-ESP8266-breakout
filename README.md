@@ -7,4 +7,6 @@ library](https://github.com/skorokithakis/A6lib).
 
 It is still incomplete, and looks like this:
 
-<img src="images/breakout.png" />
+<img src="images/schematic.png" />
+
+<img src="images/board.png" />
