@@ -3,7 +3,7 @@
   (general
     (links 96)
     (no_connects 0)
-    (area 149.924999 49.924999 200.075001 100.075001)
+    (area 147.900458 46.4 204.415 100.425001)
     (thickness 1.6)
     (drawings 51)
     (tracks 329)
@@ -1532,7 +1532,7 @@
   (gr_text SPEAKER (at 154.15 93.11 270) (layer B.SilkS) (tstamp 57B9E8F5)
     (effects (font (size 1 1) (thickness 0.25)) (justify right mirror))
   )
-  (gr_text "v0.4 GSM\nBoard\n" (at 192.75 92.51) (layer F.SilkS)
+  (gr_text "v0.5 GSM\nBoard\n" (at 192.75 92.51) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.25)))
   )
   (gr_text VCC (at 177.93 53.25 270) (layer B.SilkS) (tstamp 57B7BDDE)
