@@ -5,6 +5,7 @@ rm images/*.png
 
 echo "Renaming SVGs..."
 mv images/breakout.svg images/schematic.svg
+mv images/breakout.sch.svg images/schematic.svg
 mv images/breakout-brd.svg images/board.svg
 
 shopt -s nullglob
