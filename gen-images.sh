@@ -20,7 +20,4 @@ do
 
     echo "Renaming..."
     mv images/$fname-fs8.png images/$fname.png
-
-    echo "Deleting $fname.svg..."
-    rm images/$fname.svg
 done
